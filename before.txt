@@ -1,0 +1,9 @@
+School Management Software
+
+Advantages:
+- Excel File Generation: This software offers the advantage of generating Excel files of student records based on user-defined conditions, providing ease of data management and analysis.
+- Photo Storage: Users can save photos of students within the application, allowing for better identification and personalization of student profiles.
+- Real-Time Database Connectivity: The software connects seamlessly with a real-time database, ensuring that all information is up-to-date and readily accessible.
+
+Disadvantages:
+- User Interface: The placement of labels and buttons within the software interface may not adapt well to different window sizes on computers, potentially leading to a less intuitive user experience.
